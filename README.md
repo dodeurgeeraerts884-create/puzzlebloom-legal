@@ -6,4 +6,4 @@ Serve locally with `python3 -m http.server 8080`, then open `http://localhost:80
 
 GitHub Pages: deploy the `main` branch from `/(root)`. App links should use the published `#privacy` and `#terms` anchors. Review this policy whenever app SDKs, permissions, data use, or the operator change.
 
-English iOS listing copy: `ios/marketing.html`. Updated September 22, 2026 for iOS analytics and level delivery.
+English iOS listing copy: `ios/marketing.html`. Updated October 10, 2026 for iOS version 1.0.1, advertising, analytics, Crashlytics and level delivery.
